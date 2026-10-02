@@ -1,0 +1,5 @@
+body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { border: 1px solid #ccc; padding: .5rem; text-align: left; }
+input, textarea, button { display: block; margin: .5rem 0; padding: .5rem; width: 100%; box-sizing: border-box; }
+form:first-of-type button { width: auto; }
